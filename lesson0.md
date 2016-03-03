@@ -38,7 +38,7 @@ really lots of stuff to read here. make sure I read this later.
 
 i downloaded google chrome unstable from : http://www.chromium.org/getting-involved/dev-channel
 
-and needs chrome in android for debugging. how to set android chrome for this :
+and needs chrome in android for debugging. how to set android chrome for this :(remote debugging)
 https://developer.chrome.com/devtools/docs/remote-debugging
 
 new version of same page is here:
@@ -48,3 +48,18 @@ good news it has a link for iphone too :)
 yey. Now we should be able to move forward.
 
 need iphone and android to test and move further.
+
+---
+
+well this is quite cool the android link is working finally. also it says to set stuff up on ios is also possible with safari but we need to use this link for that:
+https://github.com/google/ios-webkit-debug-proxy
+
+well maybe some day soon we will test this too.
+
+---
+
+well do not have a android phone? well not to worry we can emulate the phone also on your pc. I know that. here is a link to learn how to emulate your phone on your desktop.
+
+https://developer.chrome.com/devtools/docs/device-mode
+
+---
